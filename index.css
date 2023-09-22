@@ -248,10 +248,10 @@
   height: 41px;
   object-fit: cover;
 }
-.sw-8th-st {
+.address {
   margin: 0;
 }
-.sw-8th-st-container {
+.address-container {
   position: relative;
   line-height: 139.3%;
 }
@@ -372,7 +372,7 @@
   justify-content: flex-start;
 }
 .frame-parent1 {
-  border-left: 4px solid var(--color-black);
+  border-left: 4px solid brown;
   flex-direction: column;
   padding: 0 var(--padding-3xl);
   align-items: flex-start;
