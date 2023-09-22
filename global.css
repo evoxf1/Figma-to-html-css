@@ -1,0 +1,43 @@
+
+
+:root {
+  /* fonts */
+  --font-dm-sans: "DM Sans";
+  --font-outfit: Outfit;
+
+  /* font sizes */
+  --font-size-lg: 18px;
+  --font-size-xl: 20px;
+  --font-size-5xl: 24px;
+  --font-size-21xl: 40px;
+  --font-size-31xl: 50px;
+  --font-size-7xl: 26px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-powderblue: #bfeaf3;
+  --color-black: #000;
+  --color-gray-100: #262626;
+  --color-gainsboro: #d9d9d9;
+  --color-sandybrown: #ff9e44;
+
+  /* Gaps */
+  --gap-6xl: 25px;
+  --gap-mini: 15px;
+  --gap-11xl: 30px;
+  --gap-3xs: 10px;
+
+  /* Paddings */
+  --padding-mini-3: 14.3px;
+  --padding-sm-1: 13.1px;
+  --padding-3xs: 10px;
+  --padding-3xl: 22px;
+  --padding-mini: 15px;
+  --padding-13xl: 32px;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+  --br-83xl-3: 102.3px;
+  --br-mini: 15px;
+  --br-84xl: 103px;
+}
